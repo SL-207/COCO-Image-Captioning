@@ -4,10 +4,11 @@
 1. Learning Rate (starting): 0.001
 - Step-wise warm-up scheduler with gamma=1.2 for the first 10 epochs to gradually raise the learning rate per 3 epochs.
 - Afterwards, employed step-wise learning rate decay scheduler with gamma=0.8 and step size of 3
-2. Embedding size: 512
-3. Dropout rate: 0.65
-4. Batch size: 64
-5. Optimizer: AdamW
+2. Word embedding size: 512
+3. LSTM hidden size: 512
+4. Dropout rate: 0.65
+5. Batch size: 64
+6. Optimizer: AdamW
   
 <img width="757" alt="Screenshot 2025-04-03 at 9 56 47 PM" src="https://github.com/user-attachments/assets/f08becc9-72d9-4263-ac5a-34be66a0e2ee" />
 
