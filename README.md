@@ -1,1 +1,10 @@
 # COCO-Image-Captioning
+
+### Architecture
+![image](https://github.com/user-attachments/assets/d9f3654a-f2d4-4989-abd2-27b815c66269)
+![image.png](attachment:1ac6ea74-e3a7-4fc4-8a3a-d79ea1e1f45c.png)
+
+### Results
+<img width="757" alt="Screenshot 2025-04-03 at 9 56 47 PM" src="https://github.com/user-attachments/assets/f08becc9-72d9-4263-ac5a-34be66a0e2ee" />
+
+<img width="563" alt="Screenshot 2025-04-03 at 9 51 46 PM" src="https://github.com/user-attachments/assets/a9f27c7c-35d9-4ae1-b8b1-3a4ab930f8c6" />
