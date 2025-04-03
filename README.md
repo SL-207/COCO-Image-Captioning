@@ -14,4 +14,4 @@
 
 **Test data inference**
 
-<img width="563" alt="Screenshot 2025-04-03 at 9 51 46 PM" src="https://github.com/user-attachments/assets/a9f27c7c-35d9-4ae1-b8b1-3a4ab930f8c6" width="1200" height="1000"/>
+<img width="563" alt="Screenshot 2025-04-03 at 9 51 46 PM" src="https://github.com/user-attachments/assets/a9f27c7c-35d9-4ae1-b8b1-3a4ab930f8c6" width="1600" height="1200"/>
